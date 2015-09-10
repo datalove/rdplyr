@@ -5,6 +5,6 @@ Version: 0.1
 Date: 2015-09-10
 Author: Tommy M O'Dell
 Maintainer: Tommy M O'Dell <tommy.odell@gmail.com>
-Description: The package implements a dplyr/magrittr-like interface using only base R functions. It's not expected to be very useful,beyond as a means to learn more about
+Description: The package implements a dplyr/magrittr-like interface using only base R functions. It's not expected to be very useful, beyond as a means to learn more about some magic behind dplyr's syntax
 License: MIT
 LazyData: TRUE
